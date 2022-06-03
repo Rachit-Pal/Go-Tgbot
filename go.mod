@@ -1,4 +1,4 @@
-module github.com/itsLuuke/go_tgbot
+module github.com/Awesome-Prince/go_tgbot
 
 go 1.17
 

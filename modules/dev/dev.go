@@ -7,9 +7,9 @@ import (
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers/filters/callbackquery"
-	"github.com/itsLuuke/go_tgbot/modules"
-	"github.com/itsLuuke/go_tgbot/modules/utils/cmdHandler"
-	"github.com/itsLuuke/go_tgbot/modules/utils/logging"
+	"github.com/Awesome-Prince/go_tgbot/modules"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/cmdHandler"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/logging"
 )
 
 var cnf = &modules.Config

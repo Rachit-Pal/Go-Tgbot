@@ -4,8 +4,8 @@ import (
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
-	"github.com/itsLuuke/go_tgbot/modules/utils/helpers"
-	"github.com/itsLuuke/go_tgbot/modules/utils/logging"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/helpers"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/logging"
 )
 
 const (

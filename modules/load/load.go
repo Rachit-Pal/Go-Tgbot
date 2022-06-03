@@ -6,12 +6,12 @@ import (
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 	"github.com/gotgbot/ratelimiter/ratelimiter"
-	"github.com/itsLuuke/go_tgbot/modules"
-	"github.com/itsLuuke/go_tgbot/modules/admin"
-	"github.com/itsLuuke/go_tgbot/modules/chatmember"
-	"github.com/itsLuuke/go_tgbot/modules/dev"
-	"github.com/itsLuuke/go_tgbot/modules/misc"
-	"github.com/itsLuuke/go_tgbot/modules/start"
+	"github.com/Awesome-Prince/go_tgbot/modules"
+	"github.com/Awesome-Prince/go_tgbot/modules/admin"
+	"github.com/Awesome-Prince/go_tgbot/modules/chatmember"
+	"github.com/Awesome-Prince/go_tgbot/modules/dev"
+	"github.com/Awesome-Prince/go_tgbot/modules/misc"
+	"github.com/Awesome-Prince/go_tgbot/modules/start"
 )
 
 var cnf = &modules.Config

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/itsLuuke/go_tgbot/modules/utils/logging"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/logging"
 	"github.com/joho/godotenv"
 )
 

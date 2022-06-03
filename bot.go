@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	m "github.com/itsLuuke/go_tgbot/modules"
-	"github.com/itsLuuke/go_tgbot/modules/load"
-	"github.com/itsLuuke/go_tgbot/modules/utils/logging"
+	m "github.com/Awesome-Prince/go_tgbot/modules"
+	"github.com/Awesome-Prince/go_tgbot/modules/load"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/logging"
 	"go.uber.org/zap"
 
 	"github.com/PaulSonOfLars/gotgbot/v2"

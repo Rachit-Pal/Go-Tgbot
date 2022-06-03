@@ -2,7 +2,7 @@ package chatstatus
 
 import (
 	"github.com/PaulSonOfLars/gotgbot/v2"
-	"github.com/itsLuuke/go_tgbot/modules/utils/logging"
+	"github.com/Awesome-Prince/go_tgbot/modules/utils/logging"
 )
 
 // todo: cache admins?
